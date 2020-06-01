@@ -21,7 +21,7 @@ The requirements are defined in [Rubric](https://review.udacity.com/#!/rubrics/1
 * The images for camera calibration are in folder `camera_cal`, camera calibration result is stored in file [calibration_result.p](./calibration_result.p)
 * Helper function is in file [helperfunction.py](./helperfunction.py)
 * Result images are stored in folder `result_images`
-* Video output are [output_video.mp4](./output_video.mp4), [challenge_output_video.mp4](./challenge_output_video.mp4), [harder_challenge_output_video.mp4]
+* Video output are [output_video.mp4](./output_video.mp4), [challenge_output_video.mp4](./challenge_output_video.mp4), [harder_challenge_output_video.mp4](./harder_challenge_output_video.mp4)
 
 ## Project document
 The code for each step is correspondingly in each section of `Advanced_Lane_Finding.ipynb`
