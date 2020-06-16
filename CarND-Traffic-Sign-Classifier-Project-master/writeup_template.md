@@ -16,6 +16,18 @@ The goals / steps of this project are the following:
 * Analyze the softmax probabilities of the new images
 * Summarize the results with a written report
 
+### Project change log
+* Ver 0.0 : Initial submission
+
+### Project folder structure
+* Implementation code is in file [Traffic_Sign_Classifier.ipynb](./Traffic_Sign_Classifier.ipynb)
+* Complete HTML report is in file [Report.html](./Report.html)
+* The test images for traffic signs are stored in folder `test_images`
+* CNN architecture visualization, log file, model saved are stored in folder `output`
+
+## Project document
+The code for each step is correspondingly in each section of `Advanced_Lane_Finding.ipynb`
+
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
 
