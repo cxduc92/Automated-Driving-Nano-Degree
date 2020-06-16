@@ -1,11 +1,5 @@
 # **Traffic Sign Recognition** 
 
-## Writeup
-
-### You can use this file as a template for your writeup if you want to submit it as a markdown file, but feel free to use some other method and submit a pdf if you prefer.
-
----
-
 **Build a Traffic Sign Recognition Project**
 
 The goals / steps of this project are the following:
@@ -15,6 +9,18 @@ The goals / steps of this project are the following:
 * Use the model to make predictions on new images
 * Analyze the softmax probabilities of the new images
 * Summarize the results with a written report
+
+### Project change log
+* Ver 0.0 : Initial submission
+
+### Project folder structure
+* Implementation code is in file [Traffic_Sign_Classifier.ipynb](./Traffic_Sign_Classifier.ipynb)
+* Complete HTML report is in file [Report.html](./Report.html)
+* The test images for traffic signs are stored in folder `test_images`
+* CNN architecture visualization, log file, model saved are stored in folder `output`
+
+## Project document
+The code for each step is correspondingly in each section of `Traffic_Sign_Classifier.ipynb`
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
@@ -54,6 +60,8 @@ Here is an exploratory visualization of the data set. It is a bar chart showing 
 ##### Dataset distribution
 
 ![](output/dataset_distribution.png)
+
+The training dataset for the distribution of the various classes, the classes were found to be highly scattered.Therefore, we will have to apply some data preprocessing to improve feature extraction.
 
 ### Design and Test a Model Architecture
 
@@ -221,13 +229,13 @@ Here are five German traffic signs that I found on the web:
 
 ![](test_images/bumpy_road.png)
 
-![](test_images/priority.png)
+![](test_images/priority.jpg)
 
-![](test_images/stop.png)
+![](test_images/stop.jpg)
 
-![](test_images/ahead_only.png)
+![](test_images/ahead_only.jpg)
 
-![](test_images/cul-de-sac.png)
+![](test_images/cul-de-sac.jpg)
 
 The fifth picture may be difficult to classify because it does not exist in the data set and the sign could be different in many countries
 
