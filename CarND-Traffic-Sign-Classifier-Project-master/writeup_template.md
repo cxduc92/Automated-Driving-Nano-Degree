@@ -223,13 +223,13 @@ Here are five German traffic signs that I found on the web:
 
 ![](test_images/bumpy_road.png)
 
-![](test_images/priority.png)
+![](test_images/priority.jpg)
 
-![](test_images/stop.png)
+![](test_images/stop.jpg)
 
-![](test_images/ahead_only.png)
+![](test_images/ahead_only.jpg)
 
-![](test_images/cul-de-sac.png)
+![](test_images/cul-de-sac.jpg)
 
 The fifth picture may be difficult to classify because it does not exist in the data set and the sign could be different in many countries
 
