@@ -55,6 +55,8 @@ Here is an exploratory visualization of the data set. It is a bar chart showing 
 
 ![](output/dataset_distribution.png)
 
+The training dataset for the distribution of the various classes, the classes were found to be highly scattered.Therefore, we will have to apply some data preprocessing to improve feature extraction.
+
 ### Design and Test a Model Architecture
 
 #### 1. Preprocess the Data set(shuffling, normalization)
