@@ -6,11 +6,11 @@ The goals / steps of this project are the following:
 * Build a self driving car running on Carla vehicle
 
 ### Student Contact
-Full name: Xuan Duc Cu
-Project Start Date: 06/24/2020
-Project End Date: 07/10/2020
-Email: cxduc92@gmail.com
-Student display name: Duc C.
+* Full name: Xuan Duc Cu
+* Project Start Date: 06/24/2020
+* Project End Date: 07/10/2020
+* Email: cxduc92@gmail.com
+* Student display name: Duc C.
 
 ### Project change log
 * Ver 0.0 - 07/10/2020  : Initial submission
