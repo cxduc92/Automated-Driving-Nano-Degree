@@ -10,7 +10,7 @@ See also: My notes for Udacity's Machine Learning Nanodegree.
 
 ## Program Outline:
 
-### 1.Computer Vision
+### 1. Computer Vision
 Project 1: Finding Lane Lines (Introduction to Computer Vision)
 
 Project 2: Advanced Lane Fidning (Edge Detection, Color extraction, bird-eye view, camera calibration)
